@@ -1,0 +1,15 @@
+crl.microsoft.com
+evsecure-ocsp.verisign.com
+evsecure-aia.verisign.com
+evsecure-crl.verisign.com
+ocsp.msocsp.com
+sa.symcb.com
+sd.symcb.com
+*.omniroot.com
+*.verisign.com
+*.symcb.com
+*.symcd.com
+*.verisign.net
+*.geotrust.com
+*.entrust.net
+*.public-trust.com

@@ -1,0 +1,16 @@
+*.broadcast.skype.com
+*.Lync.com
+*.infra.lync.com
+*.microsoftonline.com
+aka.ms
+*.api.skype.com
+Graph.skype.com
+pipe.skype.com
+*.users.storage.live.com
+quicktips.skypeforbusiness.com
+skypemaprdsitus.trafficmanager.net
+evsecure-ocsp.verisign.com
+evsecure-aia.verisign.com
+evsecure-crl.verisign.com
+ocsp.msocsp.com
+sa.symcb.com
