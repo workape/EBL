@@ -11,3 +11,5 @@ More information one how to configure EBL's can be found [Here](https://live.pal
 This script will ingest data from the Microsoft published XML data for the IPv4 and IPv6 addresses as well as the URL's for Office 365 cloud services.
 
 It will output data lists from each product and type (IPv4, IPv6, URL) into an individual list which can then be addressed in the EBL configuration on the firewall.
+
+An example of the output can be found in the *ebl-out* directory in this repository.
