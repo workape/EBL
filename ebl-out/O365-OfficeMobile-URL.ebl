@@ -2,9 +2,8 @@ office15client.microsoft.com
 odc.officeapps.live.com
 go.microsoft.com
 login.microsoftonline.com
-msft.sts.microsoft.com
 odcsm.officeapps.live.com
-microsoft-my.sharepoint.com
+*-my.sharepoint.com
 ms.tific.com
 roaming.officeapps.live.com
 o15.officeredir.microsoft.com

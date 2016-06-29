@@ -1,7 +1,7 @@
 *.outlook.com
 *.hybridconfiguration.azurewebsites.net
 *.outlook.office.com
-*.Blob.core.Windows.Net
+mshrcstorageprod.blob.core.windows.net
 delve.office.com
 domains.live.com
 hybridconfiguration.azurewebsites.net
@@ -10,3 +10,5 @@ r1.res.office365.com
 r3.res.office365.com
 r4.res.office365.com
 smtp.office365.com
+*.protection.outlook.com
+*.mail.protection.outlook.com

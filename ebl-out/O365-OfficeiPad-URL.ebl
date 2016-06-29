@@ -7,10 +7,9 @@ sqm.microsoft.com
 watson.telemetry.microsoft.com
 login.live.com
 wer.microsoft.com
-microsoft-my.sharepoint.com
+*-my.sharepoint.com
 login.microsoftonline.com
 ms.tific.com
-msft.sts.microsoft.com
 p100-sandbox.itunes.apple.com
 signup.live.com
 auth.gfx.ms
